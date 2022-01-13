@@ -1,7 +1,7 @@
 import data from "../data"
 const Banner = {
     render() {
-        return `<img src="https://picsum.photos/1500/300" />`;
+        return `<img src="./img/banner.png" />`;
     },
 };
 export default Banner;
